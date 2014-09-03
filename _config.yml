@@ -6,8 +6,8 @@ safe:  false
 
 #Site config
 title: JL's Melody
-description: Tech, idea, thinking, finding
-keywords: Melody, Tech, Idea
+description: Tech, idea, thinking, coding, finding...
+keywords: Melody, Coding, Tech, Idea
 url: http://blog.kkiiiu.com
 feed: /atom.xml
 favicon: http://jekyllrb.com/favicon.png
@@ -39,34 +39,24 @@ follow:
   - class: icon-rss
     url: /atom.xml
   - class: icon-weibo
-    url: http://weibo.com/pizn
+    url: http://weibo.com/vliilv
   - class: icon-renren
     url: http://renren.com
   - class: icon-github-alt
-    url: http://github.com/pizn
+    url: http://github.com/johnny-lv
   - class: icon-twitter
-    url: http://twitter.com/piznlin
+    url: http://twitter.com/vliNilv
   - class: icon-google-plus
     url: http://google.com
 
 #Links
 customLinks:
   - item:
-    - text: 掌心
-      url: http://www.zhanxin.info
-    - text: Jekyll
-      url: http://jekyllrb.com
+    - text: Tim's Blog
+      url: http://www.timtang.me
     - text: Jekyll Theme
       url: http://www.zhanxin.info/themes.html
     message: Friends
-  - item:
-    - text: Font Awesome
-      url: http://fortawesome.github.io/Font-Awesome/
-    - text: Google Font
-      url: http://www.google.com/fonts/
-    - text: jQuery
-      url: http://jquery.com/
-    message: 其他相关链接
 
 #googleAnaly, your id link UA-12345678-X
 #googleAnaly:

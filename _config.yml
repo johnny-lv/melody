@@ -10,7 +10,7 @@ description: Tech, idea, thinking, coding, finding...
 keywords: Melody, Coding, Tech, Idea
 url: http://blog.kkiiiu.com
 feed: /atom.xml
-favicon: http://jekyllrb.com/favicon.png
+favicon: https://avatars0.githubusercontent.com/u/1155563?v=2&u=3dc6b3da64adb810998124b3164333eba9a1d3cb&s=140
 
 #Nav config
 nav:
@@ -29,8 +29,10 @@ nav:
 author:
     name: JL
     email: kkiiiu@gmail.com
-    imageLink: https://avatars0.githubusercontent.com/u/1155563?v=2&u=3dc6b3da64adb810998124b3164333eba9a1d3cb&s=140
-    simpleIntro: To be or not to be, it's not a problem.
+    imageLink: http://www.gravatar.com/avatar/92a3834ea57e2b9f21033f5a19654ee3.png
+    simpleIntro: 
+      <p>Coder, Liver, Dreamer...</p>
+      <p>To be or not to be, it's not a problem.</p>
     detailIntro:
       <p>Nothing...</p>
 

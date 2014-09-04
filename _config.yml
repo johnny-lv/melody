@@ -14,15 +14,13 @@ favicon: https://avatars0.githubusercontent.com/u/1155563?v=2&u=3dc6b3da64adb810
 
 #Nav config
 nav:
-  - text: 首页
-    url: /index.html
-  - text: 分类目录 
+  - text: Categories
     url: /categories.html
-  - text: 文章归档
+  - text: Archives
     url: /archives.html
-  - text: 联系我
+  - text: Contact
     url: /contact.html
-  - text: 友情链接
+  - text: Links
     url: /links.html
 
 #Author config
@@ -31,7 +29,7 @@ author:
     email: kkiiiu@gmail.com
     imageLink: http://www.gravatar.com/avatar/92a3834ea57e2b9f21033f5a19654ee3.png
     simpleIntro: 
-      <p>Coder, Liver, Dreamer...</p>
+      <p>Coder, Dreamer...</p>
       <p>To be or not to be, it's not a problem.</p>
     detailIntro:
       <p>Nothing...</p>

@@ -2,7 +2,7 @@
 layout: post
 title: Blog with Github Pages
 date: 2014-09-04 22:10:00
-category: internet
+category: Internet
 ---
 
 ## Blog with Github pages

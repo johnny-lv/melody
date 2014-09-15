@@ -5,7 +5,7 @@ date: 2014-09-04 22:10:00
 category: Internet
 ---
 
-## Blog with Github pages
+### Blog with Github pages
 -----
 It's easy to build a blog with [**Github Pages**](https://pages.github.com/), just few steps. 
 
@@ -19,7 +19,7 @@ It's easy to build a blog with [**Github Pages**](https://pages.github.com/), ju
 
 * Seek [help](https://help.github.com/categories/20/articles)
 
-##Next:
+### Next:
 * How to SEO?
 
 * How to make draft?

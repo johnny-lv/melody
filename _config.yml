@@ -1,4 +1,6 @@
 markdown: redcarpet
+redcarpet:
+ extensions: ["no_intra_emphasis", "fenced_code_blocks", "autolink", "tables", "with_toc_data"]
 pygments: true
 paginate: 8
 
@@ -67,8 +69,3 @@ disqus:
 duoshuo:
   config: false
   id: kkiiiu
-
-#Markdown config
-markdown: redcarpet
-redcarpet:
-  extensions: ["no_intra_emphasis", "fenced_code_blocks", "autolink", "tables", "with_toc_data"]

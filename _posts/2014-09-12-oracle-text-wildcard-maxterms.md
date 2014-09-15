@@ -5,7 +5,7 @@ date: 2014-09-12 10:45:00
 category: Database
 ---
 
-## Oracle Text: The Word List and the WILDCARD_MAXTERMS attribute
+### Oracle Text: The Word List and the WILDCARD_MAXTERMS attribute
 -----
 As data grow more and more, an error of WILDCARD_MAXTERMS expansion meets eventually. What's wildcard_maxterms? How does it work?
 

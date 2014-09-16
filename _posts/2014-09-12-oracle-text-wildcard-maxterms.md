@@ -16,6 +16,7 @@ Here we will have a briefly description and explaination:
 > - 11g allows set WILDCARD_MAXTERMS to maximum as 50000, default value is 20000
 
 You can set value of WILDCARD_MAXTERMS like this:
+
 ```
 execute ctd_ddl.drop_preference ('my_wordlist'); 
 BEGIN   
@@ -25,9 +26,11 @@ END;
 /
 ```
 
+
 But, if the error still thrown even reach the maximum, how we can do?
  1. Narrow your query string, match more exact expected result
  2. Make the lexer more smarter to consider specific characters as normal alphanumberic characters, such as slash, this requires modifying in parameter `PRINTJIONS`:
+
 ```
 begin
 ctx_ddl.create_preference('OBJECT_LEXER', 'BASIC_LEXER');

@@ -11,9 +11,9 @@ As data grow more and more, an error of WILDCARD_MAXTERMS expansion meets eventu
 
 Here we will have a briefly description and explaination:
 
-> WILDCARD_MAXTERMS is a property of BASIC_WORDLIST, it specifies the maximum number of terms in a wildcard expansion.
-> - 10g allows set WILDCARD_MAXTERMS to maximum as 15000, default value is 5000
-> - 11g allows set WILDCARD_MAXTERMS to maximum as 50000, default value is 20000
+>WILDCARD_MAXTERMS is a property of BASIC_WORDLIST, it specifies the maximum number of terms in a wildcard expansion.
+>-10g allows set WILDCARD_MAXTERMS to maximum as 15000, default value is 5000
+>-11g allows set WILDCARD_MAXTERMS to maximum as 50000, default value is 20000
 
 You can set value of WILDCARD_MAXTERMS like this:
 
